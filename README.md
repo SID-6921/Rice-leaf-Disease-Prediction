@@ -28,7 +28,7 @@ A comprehensive machine learning project aimed at detecting and classifying dise
 - **Confusion Matrix:** Detailed confusion matrix showcasing model performance across all classes.
 - **Visualizations:** Extensive visualizations for data distribution, model architecture, and performance metrics.
 
-  ⭐ Support
-If you found this project helpful, please consider giving it a ⭐ to show your support!
+# ⭐ Support
+# If you found this project helpful, please consider giving it a ⭐ to show your support!
 
 
